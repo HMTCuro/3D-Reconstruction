@@ -10,7 +10,7 @@
 
 2.在GUI中点击上方菜单的Reconstruction，下拉菜单中点击Automatic reconstruction
 
-![col1](imgs/col_1 (2).png)
+![col1]('imgs/col_1 (2).png')
 
 
 
