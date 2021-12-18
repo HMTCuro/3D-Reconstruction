@@ -10,7 +10,7 @@
 
 2.在GUI中点击上方菜单的Reconstruction，下拉菜单中点击Automatic reconstruction
 
-![col1](imgs/col_1 (2).png)
+![col1](imgs/col_1.png)
 
 
 
@@ -22,7 +22,7 @@
 
 6.点击Run。在一段时间后便可得到生成结果，结果存储在Workplace folder下
 
-![col2](imgs/col_1 (1).png)
+![col2](imgs/col_2.png)
 
 
 
