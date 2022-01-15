@@ -331,3 +331,5 @@ ResNeSt 的网路架构，首先将输入分为k 个Cardinal Groups，这边的C
 
 ![dby2](imgs/gym-4.png)
 
+
+## 参考文献
