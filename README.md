@@ -56,7 +56,7 @@ Zhang H, Wu C, Zhang Z, et al. Resnest: Split-attention networks[J]. arXiv prepr
 
 点云切割与可视化使用[CloudCompare](https://github.com/CloudCompare/CloudCompare)及[Meshlab](https://github.com/cnr-isti-vclab/meshlab)完成。
 
-表面重建调用了[Open3D](https://github.com/isl-org/Open3D)。
+调用[Open3D](https://github.com/isl-org/Open3D)进行表面重建。
 
 Cascade+Transformer的代码主要基于[kwea123](https://github.com/kwea123)实现的[pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)版本的[Cascade-MVSNetl](https://github.com/kwea123/CasMVSNet_pl)以及[LoFTR](https://github.com/zju3dv/LoFTR)进行实现。
 
