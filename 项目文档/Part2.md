@@ -160,7 +160,7 @@ python lengths.py
 
 ##### 体育馆南北馆
 
-<center><img src="../imgs/gym2.jpg" style="zoom:100%;" /></center>
+<center><img src="../imgs/gym2.png" style="zoom:100%;" /></center>
 
 <center><img src="../imgs/gym1.png" style="zoom:100%;" /></center>
 
