@@ -23,12 +23,6 @@
 
 ### 2. 格式转换
 
-输入：Colmap生成
-
-输出格式：
-
-
-
 ```bash
 python ../Part1/AA-RMVSNet/colmap_input.py
 ```
@@ -120,29 +114,29 @@ o3d.geometry.TriangleMesh.create_from_point_cloud_poisson(filename, depth=11, wi
 
 2. 点击左上角Open图标，导入点云。
 
-<center><img src="../imgs/slice1.png" style="zoom:50%;" /></center>
+<center><img src="../imgs/slice1.PNG" style="zoom:50%;" /></center>
 
 
 
 3. 选取合适的角度作为切割平面，在左侧的DB Tree选中点云，点击上方切割图标
 
-<center><img src="../imgs/slice2.png" style="zoom:50%;" /></center>
+<center><img src="../imgs/slice2.PNG" style="zoom:50%;" /></center>
 
 
 
 4. 鼠标左键绘制多边形，右键退出绘制。上方窗口菜单点击多边形重新绘制；点击Segment In选取内部；点击Segment Out选取外部；点击确定按钮完成切割。
 
-<center><img src="../imgs/slice3.png" style="zoom:50%;" /></center>
+<center><img src="../imgs/slice3.PNG" style="zoom:50%;" /></center>
 
 
 
 5. 切割之后会在左侧的DB Tree生成两份点云，可以删除其中的一份
 
-<center><img src="../imgs/slice5.png" style="zoom:50%;" /></center>
+<center><img src="../imgs/slice5.PNG" style="zoom:50%;" /></center>
 
 
 
-<center><img src="../imgs/slice4.png" style="zoom:50%;" /></center>
+<center><img src="../imgs/slice4.PNG" style="zoom:50%;" /></center>
 
 
 
