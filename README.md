@@ -4,11 +4,17 @@
 
 技术文档：[Markdown](https://github.com/HMTCuro/3D-Reconstruction/blob/main/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/Part1.md) [PDF](https://github.com/HMTCuro/3D-Reconstruction/blob/main/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/Part1.pdf)
 
+效果图：
+
+<center><img src="./imgs/part1.png" style="zoom:100%;" /></center>
+
 
 
 ## Part II 基于计算机视觉方法的点云到点云窗户识别
 
 技术文档：[Markdown](https://github.com/HMTCuro/3D-Reconstruction/blob/main/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/Part2.md) [PDF](https://github.com/HMTCuro/3D-Reconstruction/blob/main/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/Part2.pdf)
+
+算法流程图：
 
 <center><img src="./imgs/part2.png" style="zoom:100%;" /></center>
 
@@ -17,6 +23,10 @@
 ## Part III 基于ResNest的图像到点云的语义分割
 
 技术文档：[Markdown](https://github.com/HMTCuro/3D-Reconstruction/blob/main/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/Part3.md) [PDF](https://github.com/HMTCuro/3D-Reconstruction/blob/main/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/Part3.pdf)
+
+效果图：
+
+<center><img src="./imgs/dby-4.png" style="zoom:100%;" /></center>
 
 
 
