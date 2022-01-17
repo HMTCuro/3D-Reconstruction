@@ -81,12 +81,12 @@ Zhang H, Wu C, Zhang Z, et al. Resnest: Split-attention networks[J]. arXiv prepr
 
 点云切割与可视化使用[CloudCompare](https://github.com/CloudCompare/CloudCompare)及[Meshlab](https://github.com/cnr-isti-vclab/meshlab)完成。
 
-窗户识别算法中部分思路参考了Color Space的[矩形识别算法](https://cloud.tencent.com/developer/article/1675022)，图像处理技术主要基于冈萨雷斯的[数字图像处理（第三版）](https://sg1lib.org/book/5702757/0c5632)。
-
 
 调用[Open3D](https://github.com/isl-org/Open3D)进行表面重建。
 
 Cascade+Transformer的代码主要基于[kwea123](https://github.com/kwea123)实现的[pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)版本的[Cascade-MVSNetl](https://github.com/kwea123/CasMVSNet_pl)以及[LoFTR](https://github.com/zju3dv/LoFTR)进行实现。
+
+窗户识别算法中部分思路参考了Color Space的[矩形识别算法](https://cloud.tencent.com/developer/article/1675022)，图像处理技术主要基于冈萨雷斯的[数字图像处理（第三版）](https://sg1lib.org/book/5702757/0c5632)。
 
 语义分割部分调用了[PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)。
 
