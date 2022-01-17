@@ -81,7 +81,7 @@ Zhang H, Wu C, Zhang Z, et al. Resnest: Split-attention networks[J]. arXiv prepr
 
 点云切割与可视化使用[CloudCompare](https://github.com/CloudCompare/CloudCompare)及[Meshlab](https://github.com/cnr-isti-vclab/meshlab)完成。
 
-窗户识别算法中部分参考了Color Space[基于OpenCV的矩形识别算法](https://cloud.tencent.com/developer/article/1675022)。
+窗户识别算法中部分参考了Color Space的[矩形识别算法](https://cloud.tencent.com/developer/article/1675022)。
 
 调用[Open3D](https://github.com/isl-org/Open3D)进行表面重建。
 
