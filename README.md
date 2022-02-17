@@ -62,7 +62,9 @@
 
 **效果图（NeuS）**：
 
-<center><img src="./imgs/gym_south_neus.png" style="zoom:100%;" /></center>
+<center><img src="./imgs/neus1.png" style="zoom:100%;" /></center>
+
+<center><img src="./imgs/neus2.png" style="zoom:100%;" /></center>
 
 
 
