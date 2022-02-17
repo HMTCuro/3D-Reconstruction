@@ -74,7 +74,7 @@
 
 **技术文档**：[[Markdown]](https://github.com/HMTCuro/3D-Reconstruction/blob/main/Documentation/Part5.md) [[PDF]](https://github.com/HMTCuro/3D-Reconstruction/blob/main/Documentation/Part5.pdf)
 
-**网站链接**：[SDU 3D-Viewer](182.)
+**网站链接**：[SDU 3D-Viewer](http://182.92.211.71/)
 
 **预览图**：
 
